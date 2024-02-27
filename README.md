@@ -1,4 +1,4 @@
 # newclass
 this is my first class
 <br>
-Author - Nikhil Saxena
+Author - Nikhil (Saxhhc)
