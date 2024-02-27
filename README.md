@@ -1,2 +1,3 @@
 # newclass
-this is my first
+this is my first class
+Author - Nikhil Saxena
